@@ -1,2 +1,2 @@
 The json is from https://s3.amazonaws.com/postgraphics/policeshootings/policeshootings2018.json (The Washingtonpost data)
-Also the Date from the .old directory is used
+Also Berechnungen1/Quelle & Berechnungen2/Quelle
